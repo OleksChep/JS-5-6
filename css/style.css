@@ -1,0 +1,43 @@
+
+.wrapper {
+	width: 760px;
+	margin: 0 auto;
+	font-family: Tahoma;
+}
+.timerWrapper {
+	margin-top: 40px;
+	font-size: 110px;
+	font-weight: 600;
+	color: #006600;
+	background-color: #FFFFE0;
+	border: 10px solid #000;
+	border-radius: 40px;
+	text-align: center;
+}
+
+.millisec {
+	font-size: 25px;
+	line-height: 10px;
+	margin-left: 460px;
+}
+
+.buttons {
+	text-align: center;
+	margin-top: 30px;
+}
+.btn {
+	font-size: 45px;
+	color: #000;
+	background-color: #FFCCCC;
+	border: 8px solid #000;
+	border-radius: 6px;
+}
+
+.splits {
+	margin-top: 20px;
+	font-size: 30px;
+	text-align: center;
+	color:gray;
+}
+
+ 
